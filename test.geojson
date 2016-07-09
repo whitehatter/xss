@@ -1,1 +1,4 @@
-test
+{
+  "type": "FeatureCollection",
+  "features": []
+}
