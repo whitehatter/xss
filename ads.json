@@ -2,5 +2,10 @@
   "brandSafety": {
     "slots": {},
     "custom": {}
+  },
+  "slots": {
+    "leaderboard": {
+    
+    }
   }
 }
